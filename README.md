@@ -8,7 +8,7 @@
 
 ---
 
-A react application to generate random password.  
+A one-page react application to generate random password.  
 Deployed on [github-pages](https://gpalleschi.github.io/pws-generator).
 
 ### Prerequisites  
